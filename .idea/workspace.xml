@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65890787-bff2-4b02-87a3-711573a27488" name="Default Changelist" comment="" />
+    <list default="true" id="65890787-bff2-4b02-87a3-711573a27488" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015/q201507.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015/q201508.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015/q201509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015/q201510.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lqfinal2015/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lqfinal2015/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +27,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WSVpYUDxAxRnpZ2HnioI4amvlS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -44,9 +58,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.q201506">
-    <configuration name="q201502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201502" />
+  <component name="RunManager" selected="Application.Q2">
+    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lqfinal2015.Q2" />
+      <module name="lanqiaoTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lqfinal2015.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q201507" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015.q201507" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201503" />
+    <configuration name="q201508" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015.q201508" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201504" />
+    <configuration name="q201509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015.q201509" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
@@ -84,21 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201505" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201505" />
-      <module name="lanqiaoTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lq2015.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="q201506" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201506" />
+    <configuration name="q201510" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015.q201510" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.q201506" />
-        <item itemvalue="Application.q201504" />
-        <item itemvalue="Application.q201505" />
-        <item itemvalue="Application.q201503" />
-        <item itemvalue="Application.q201502" />
+        <item itemvalue="Application.Q2" />
+        <item itemvalue="Application.q201510" />
+        <item itemvalue="Application.q201509" />
+        <item itemvalue="Application.q201508" />
+        <item itemvalue="Application.q201507" />
       </list>
     </recent_temporary>
   </component>
@@ -130,12 +144,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579143165419</updated>
-      <workItem from="1579143166794" duration="12647000" />
+      <workItem from="1579143166794" duration="23955000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -173,6 +198,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lqfinal2015/Q2.java</url>
+          <line>64</line>
+          <properties class="lqfinal2015.Q2" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
