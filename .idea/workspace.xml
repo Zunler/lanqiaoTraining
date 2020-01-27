@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65890787-bff2-4b02-87a3-711573a27488" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2015/q201507.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2015/q201508.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2015/q201509.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2015/q201510.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lqfinal2015/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lqfinal2015/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015campus/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015campus/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015campus/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015campus/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015campus/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2015campus/Sudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,13 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q2">
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lqfinal2015.Q2" />
+  <component name="RunManager" selected="Application.Q4">
+    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015campus.Q3" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lqfinal2015.*" />
+          <option name="PATTERN" value="lq2015campus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201507" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201507" />
+    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015campus.Q4" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2015.*" />
+          <option name="PATTERN" value="lq2015campus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201508" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201508" />
+    <configuration name="Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015campus.Q5" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2015.*" />
+          <option name="PATTERN" value="lq2015campus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201509" />
+    <configuration name="ShuDu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015campus.ShuDu" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2015.*" />
+          <option name="PATTERN" value="lq2015campus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q201510" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2015.q201510" />
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2015campus.Sudoku" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2015.*" />
+          <option name="PATTERN" value="lq2015campus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.q201510" />
-        <item itemvalue="Application.q201509" />
-        <item itemvalue="Application.q201508" />
-        <item itemvalue="Application.q201507" />
+        <item itemvalue="Application.Q4" />
+        <item itemvalue="Application.Sudoku" />
+        <item itemvalue="Application.ShuDu" />
+        <item itemvalue="Application.Q5" />
+        <item itemvalue="Application.Q3" />
       </list>
     </recent_temporary>
   </component>
@@ -144,8 +143,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579143165419</updated>
-      <workItem from="1579143166794" duration="23955000" />
+      <workItem from="1579143166794" duration="28993000" />
+      <workItem from="1579852306379" duration="4512000" />
     </task>
+    <task id="LOCAL-00001" summary="更新决赛题，难度太大，暂时不写了">
+      <created>1579356967326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579356967326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,11 +164,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新决赛题，难度太大，暂时不写了" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新决赛题，难度太大，暂时不写了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -174,6 +188,16 @@
           <url>file://$PROJECT_DIR$/src/lq2015/q201506.java</url>
           <line>89</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lq2015campus/Q1.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lq2015campus/Q4.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/lq2015/q201504.java</url>
@@ -206,6 +230,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2015campus/Q1.java</url>
+          <line>21</line>
+          <properties class="lq2015campus.Q1" method="f">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
