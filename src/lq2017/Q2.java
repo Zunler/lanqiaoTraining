@@ -22,8 +22,8 @@ import java.util.Set;
  * @since 1.0.0
  */
 public class Q2 {
-    static boolean[] vis = new boolean[9];
-    static int[] factor = new int[9];
+    static boolean[] vis = new boolean[10];
+    static int[] factor = new int[10];
     static int ans = 0;
 
     public static boolean judge(int result) {
@@ -49,38 +49,33 @@ public class Q2 {
     }
 
     public static void dfs(int cur) {
-//        if (cur == 4) {
-//            int sum = 0;
-//            for (int i = 0; i <5 ; i++) {
-//                sum += factor[i];
-//
-//            }
-//            if (sum % 3 != 0) {
-//                return;
-//            }
-//        }
-        if (cur == 9) {
-//            int sum = 0;
-//            for (int i = 4; i < 9; i++) {
-//                sum += factor[i];
-//
-//            }
-//            if (sum % 3 != 0) {
-//                return;
-//            }
+        if (cur == 1 && factor[0] == 0) {
+            return;
+
+        }
+        if (cur == 10) {
+            if (factor[9] == 0) {
+                return;
+            }
+
             int a;
             int b;
             int c;
 
             String s_a = "";
-            for (int i = 0; i < 4; i++) {
+            int index = 0;
+            for (int i = 0; i < 10; i++) {
+                if (factor[i] == 0) {
+                    index = i;
+                    break;
+                }
                 s_a += String.valueOf(factor[i]);
 
             }
             a = Integer.parseInt(s_a);
 
             String s_b = "";
-            for (int i = 4; i < 9; i++) {
+            for (int i = index + 1; i < 10; i++) {
                 s_b += String.valueOf(factor[i]);
 
             }
@@ -96,13 +91,13 @@ public class Q2 {
             return;
         }
 
-        for (int i = 0; i < 9; i++) {
-            if (!vis[i] && factor[cur] == 0) {
+        for (int i = 0; i < 10; i++) {
+            if (!vis[i] && factor[cur] == -1) {
                 vis[i] = true;
-                factor[cur] = i+1;
+                factor[cur] = i;
                 dfs(cur + 1);
                 vis[i] = false;
-                factor[cur] = 0;
+                factor[cur] = -1;
 
             }
 
@@ -111,7 +106,11 @@ public class Q2 {
 
 
     public static void main(String[] args) {
+        for (int i = 0; i < 10; i++) {
+            factor[i] = -1;
+
+        }
         dfs(0);
-        System.out.println(ans);
+        System.out.println(ans / 2);
     }
 }
