@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65890787-bff2-4b02-87a3-711573a27488" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lq2017/Q9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lq2018/Q9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lq2017/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lq2017/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lq2017/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lq2017/Q10.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,12 +68,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Q8">
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2017.Q3" />
+    <configuration name="Q10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2018.Q10" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2017.*" />
+          <option name="PATTERN" value="lq2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2017.Q4" />
+    <configuration name="Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lq2018.Q6" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2017.*" />
+          <option name="PATTERN" value="lq2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="Q7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2017.Q7" />
+      <option name="MAIN_CLASS_NAME" value="lq2018.Q7" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2017.*" />
+          <option name="PATTERN" value="lq2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +108,11 @@
       </method>
     </configuration>
     <configuration name="Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2017.Q8" />
+      <option name="MAIN_CLASS_NAME" value="lq2018.Q8" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2017.*" />
+          <option name="PATTERN" value="lq2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="Q9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lq2017.Q9" />
+      <option name="MAIN_CLASS_NAME" value="lq2018.Q9" />
       <module name="lanqiaoTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lq2017.*" />
+          <option name="PATTERN" value="lq2018.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,8 +136,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Q8" />
-        <item itemvalue="Application.Q4" />
-        <item itemvalue="Application.Q3" />
+        <item itemvalue="Application.Q10" />
+        <item itemvalue="Application.Q6" />
         <item itemvalue="Application.Q9" />
         <item itemvalue="Application.Q7" />
       </list>
@@ -162,7 +164,9 @@
       <workItem from="1580458071457" duration="844000" />
       <workItem from="1580473511075" duration="9877000" />
       <workItem from="1580729124705" duration="772000" />
-      <workItem from="1580996858317" duration="9351000" />
+      <workItem from="1580996858317" duration="9827000" />
+      <workItem from="1581158477280" duration="360000" />
+      <workItem from="1581235828852" duration="15986000" />
     </task>
     <task id="LOCAL-00001" summary="更新决赛题，难度太大，暂时不写了">
       <created>1579356967326</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580479578448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第八届省赛">
+      <created>1581081508647</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581081508647</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +219,8 @@
     <MESSAGE value="更新决赛题，难度太大，暂时不写了" />
     <MESSAGE value="2015校内选拔赛" />
     <MESSAGE value="第七届省赛" />
-    <option name="LAST_COMMIT_MESSAGE" value="第七届省赛" />
+    <MESSAGE value="第八届省赛" />
+    <option name="LAST_COMMIT_MESSAGE" value="第八届省赛" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,6 +305,62 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q4.java</url>
+          <line>21</line>
+          <properties class="lq2018.Q4" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q5.java</url>
+          <line>45</line>
+          <properties class="lq2018.Q5" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q7.java</url>
+          <line>23</line>
+          <properties class="lq2018.Q7" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q9.java</url>
+          <line>60</line>
+          <properties class="lq2018.Q9" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q6.java</url>
+          <line>23</line>
+          <properties class="lq2018.Q6" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q10.java</url>
+          <line>84</line>
+          <properties class="lq2018.Q10">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lq2018/Q8.java</url>
+          <line>52</line>
+          <properties class="lq2018.Q8" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
